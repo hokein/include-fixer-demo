@@ -53,4 +53,9 @@ ninja -C out/Default -t compdb cc cxx objc objcxx > compile_commands.json
 /path/to/run-find-all-symbols.py -b path/to/find-all-symbols
 ```
 
+## Other projects
+
+For other non-cmake and non-gyp projects, there is a tool called [Bear](https://github.com/rizsotto/Bear)
+to generate JSON compilation database (`compile_commands.json`).
+
 [1]: http://clang.llvm.org/extra/include-fixer.html
