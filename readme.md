@@ -3,7 +3,9 @@
 The demo repository demonstrates core features of #clang-include-fixer, a tool
 that automatically adds missing headers for unidentified symbols in cpp files.
 
-Enjoy the tool.
+![screenshot](/screenshot/include-fixer.gif)
+
+Enjoy the tool. :heavy_plus_sign::hash:
 
 ## Setup Include-Fixer
 
